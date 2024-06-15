@@ -1,0 +1,376 @@
+[
+    {
+        "type": "Classics",
+        "data": [
+            {
+                "title": "The Secret Garden",
+                "rating": "4/5",
+                "price": "$15.08",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Metamorphosis",
+                "rating": "1/5",
+                "price": "$28.58",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Pilgrim's Progress",
+                "rating": "2/5",
+                "price": "$50.26",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Hound of the ...",
+                "rating": "2/5",
+                "price": "$14.82",
+                "availability": "In stock"
+            },
+            {
+                "title": "Little Women (Little Women ...",
+                "rating": "4/5",
+                "price": "$28.07",
+                "availability": "In stock"
+            },
+            {
+                "title": "Gone with the Wind",
+                "rating": "3/5",
+                "price": "$32.49",
+                "availability": "In stock"
+            },
+            {
+                "title": "Candide",
+                "rating": "3/5",
+                "price": "$58.63",
+                "availability": "In stock"
+            },
+            {
+                "title": "Animal Farm",
+                "rating": "3/5",
+                "price": "$57.22",
+                "availability": "In stock"
+            },
+            {
+                "title": "Wuthering Heights",
+                "rating": "3/5",
+                "price": "$17.73",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Picture of Dorian ...",
+                "rating": "2/5",
+                "price": "$29.70",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Complete Stories and ...",
+                "rating": "4/5",
+                "price": "$26.78",
+                "availability": "In stock"
+            },
+            {
+                "title": "Beowulf",
+                "rating": "2/5",
+                "price": "$38.35",
+                "availability": "In stock"
+            },
+            {
+                "title": "And Then There Were ...",
+                "rating": "2/5",
+                "price": "$35.01",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Story of Hong ...",
+                "rating": "4/5",
+                "price": "$43.19",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Little Prince",
+                "rating": "2/5",
+                "price": "$45.42",
+                "availability": "In stock"
+            },
+            {
+                "title": "Sense and Sensibility",
+                "rating": "1/5",
+                "price": "$37.46",
+                "availability": "In stock"
+            },
+            {
+                "title": "Of Mice and Men",
+                "rating": "2/5",
+                "price": "$47.11",
+                "availability": "In stock"
+            },
+            {
+                "title": "Emma",
+                "rating": "2/5",
+                "price": "$32.93",
+                "availability": "In stock"
+            },
+            {
+                "title": "Alice in Wonderland (Alice's ...",
+                "rating": "1/5",
+                "price": "$55.53",
+                "availability": "In stock"
+            }
+        ]
+    },
+    {
+        "type": "Horror",
+        "data": [
+            {
+                "title": "Security",
+                "rating": "2/5",
+                "price": "$39.25",
+                "availability": "In stock"
+            },
+            {
+                "title": "Follow You Home",
+                "rating": "1/5",
+                "price": "$21.36",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Loney",
+                "rating": "1/5",
+                "price": "$23.40",
+                "availability": "In stock"
+            },
+            {
+                "title": "Pet Sematary",
+                "rating": "3/5",
+                "price": "$10.56",
+                "availability": "In stock"
+            },
+            {
+                "title": "Doctor Sleep (The Shining ...",
+                "rating": "2/5",
+                "price": "$40.12",
+                "availability": "In stock"
+            },
+            {
+                "title": "Psycho: Sanitarium (Psycho #1.5)",
+                "rating": "5/5",
+                "price": "$36.97",
+                "availability": "In stock"
+            },
+            {
+                "title": "Can You Keep a ...",
+                "rating": "1/5",
+                "price": "$48.64",
+                "availability": "In stock"
+            },
+            {
+                "title": "Red Dragon (Hannibal Lecter ...",
+                "rating": "3/5",
+                "price": "$23.37",
+                "availability": "In stock"
+            },
+            {
+                "title": "Dracula the Un-Dead",
+                "rating": "5/5",
+                "price": "$35.63",
+                "availability": "In stock"
+            },
+            {
+                "title": "Night Shift (Night Shift ...",
+                "rating": "4/5",
+                "price": "$12.75",
+                "availability": "In stock"
+            },
+            {
+                "title": "Needful Things",
+                "rating": "4/5",
+                "price": "$47.51",
+                "availability": "In stock"
+            },
+            {
+                "title": "Misery",
+                "rating": "2/5",
+                "price": "$34.79",
+                "availability": "In stock"
+            },
+            {
+                "title": "It",
+                "rating": "3/5",
+                "price": "$25.01",
+                "availability": "In stock"
+            },
+            {
+                "title": "'Salem's Lot",
+                "rating": "4/5",
+                "price": "$49.56",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Stand",
+                "rating": "2/5",
+                "price": "$57.86",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Girl with All ...",
+                "rating": "3/5",
+                "price": "$49.47",
+                "availability": "In stock"
+            },
+            {
+                "title": "House of Leaves",
+                "rating": "1/5",
+                "price": "$54.89",
+                "availability": "In stock"
+            }
+        ]
+    },
+    {
+        "type": "History",
+        "data": [
+            {
+                "title": "Sapiens: A Brief History ...",
+                "rating": "5/5",
+                "price": "$54.23",
+                "availability": "In stock"
+            },
+            {
+                "title": "Unbound: How Eight Technologies ...",
+                "rating": "1/5",
+                "price": "$25.52",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Age of Genius: ...",
+                "rating": "1/5",
+                "price": "$19.73",
+                "availability": "In stock"
+            },
+            {
+                "title": "Political Suicide: Missteps, Peccadilloes, ...",
+                "rating": "2/5",
+                "price": "$36.28",
+                "availability": "In stock"
+            },
+            {
+                "title": "Thomas Jefferson and the ...",
+                "rating": "1/5",
+                "price": "$59.64",
+                "availability": "In stock"
+            },
+            {
+                "title": "Zealot: The Life and ...",
+                "rating": "3/5",
+                "price": "$24.70",
+                "availability": "In stock"
+            },
+            {
+                "title": "A Distant Mirror: The ...",
+                "rating": "3/5",
+                "price": "$14.58",
+                "availability": "In stock"
+            },
+            {
+                "title": "1491: New Revelations of ...",
+                "rating": "3/5",
+                "price": "$21.80",
+                "availability": "In stock"
+            },
+            {
+                "title": "Brilliant Beacons: A History ...",
+                "rating": "3/5",
+                "price": "$11.45",
+                "availability": "In stock"
+            },
+            {
+                "title": "\"Most Blessed of the ...",
+                "rating": "5/5",
+                "price": "$44.48",
+                "availability": "In stock"
+            },
+            {
+                "title": "A Short History of ...",
+                "rating": "5/5",
+                "price": "$52.40",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Rise and Fall ...",
+                "rating": "2/5",
+                "price": "$39.67",
+                "availability": "In stock"
+            },
+            {
+                "title": "Catherine the Great: Portrait ...",
+                "rating": "4/5",
+                "price": "$58.55",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Mathews Men: Seven ...",
+                "rating": "5/5",
+                "price": "$42.91",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Hiding Place",
+                "rating": "4/5",
+                "price": "$55.91",
+                "availability": "In stock"
+            },
+            {
+                "title": "America's War for the ...",
+                "rating": "2/5",
+                "price": "$51.22",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Guns of August",
+                "rating": "2/5",
+                "price": "$14.54",
+                "availability": "In stock"
+            },
+            {
+                "title": "House of Lost Worlds: ...",
+                "rating": "2/5",
+                "price": "$43.70",
+                "availability": "In stock"
+            }
+        ]
+    },
+    {
+        "type": "Biography",
+        "data": [
+            {
+                "title": "Louisa: The Extraordinary Life ...",
+                "rating": "2/5",
+                "price": "$16.85",
+                "availability": "In stock"
+            },
+            {
+                "title": "Setting the World on ...",
+                "rating": "2/5",
+                "price": "$21.15",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Faith of Christopher ...",
+                "rating": "1/5",
+                "price": "$39.55",
+                "availability": "In stock"
+            },
+            {
+                "title": "Benjamin Franklin: An American ...",
+                "rating": "3/5",
+                "price": "$48.19",
+                "availability": "In stock"
+            },
+            {
+                "title": "The Rise of Theodore ...",
+                "rating": "3/5",
+                "price": "$42.57",
+                "availability": "In stock"
+            }
+        ]
+    }
+]

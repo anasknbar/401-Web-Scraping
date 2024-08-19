@@ -1,4 +1,4 @@
-#!/home/anas/401-Web-Scraping/.venv/bin/python3.12
+#!/home/anas/python/401-Web-Scraping/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
